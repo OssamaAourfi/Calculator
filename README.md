@@ -1,2 +1,2 @@
 # Calculator
-Mini projects Calculator using HTML/CSS/JAVASCRIPT
+Mini projects Calculator using CSS/JAVASCRIPT
